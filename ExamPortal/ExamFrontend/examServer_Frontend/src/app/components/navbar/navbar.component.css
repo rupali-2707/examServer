@@ -1,0 +1,12 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.example-icon{
+    border: none !important;
+    background-color: transparent;
+}
+
+.mat-icon{
+    color: white;
+}
